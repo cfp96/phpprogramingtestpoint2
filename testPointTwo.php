@@ -23,7 +23,7 @@ function repeatingSubstrings($string) {
 }
 
 // Example usage
-$string = "haaagagagagaghssja";
+$string = "tatatatatattststddjdjdjd";
 $result = repeatingSubstrings($string);
 
 // Output the repeating substrings and their occurrence counts
